@@ -7,21 +7,41 @@
   <sounds name="sound"/>
   <sprites name="sprites">
     <sprite>sprites\sprPlayer</sprite>
-    <sprite>sprites\sprFixedBox</sprite>
-    <sprite>sprites\sprMovableBox</sprite>
-    <sprite>sprites\sprGameManager</sprite>
+    <sprite>sprites\sprBoxLocation</sprite>
+    <sprites name="boxes">
+      <sprite>sprites\sprFixedBox</sprite>
+      <sprite>sprites\sprMovableBox</sprite>
+    </sprites>
+    <sprites name="managers">
+      <sprite>sprites\sprGameManager</sprite>
+      <sprite>sprites\sprPuzzleManager</sprite>
+    </sprites>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
   <objects name="objects">
     <object>objects\objPlayer</object>
-    <object>objects\objFixedBox</object>
-    <object>objects\objMovableBox</object>
-    <object>objects\objGameManager</object>
-    <object>objects\objAnyBox</object>
+    <object>objects\objBoxLocation</object>
+    <objects name="boxes">
+      <object>objects\objAnyBox</object>
+      <object>objects\objMovableBox</object>
+      <object>objects\objFixedBox</object>
+    </objects>
+    <objects name="managers">
+      <object>objects\objGameManager</object>
+      <object>objects\objPuzzleManager</object>
+    </objects>
   </objects>
   <rooms name="rooms">
-    <room>rooms\testRoom</room>
+    <rooms name="puzzles">
+      <room>rooms\puzzle1</room>
+      <room>rooms\puzzle2</room>
+      <room>rooms\puzzle3</room>
+      <room>rooms\gameEnd</room>
+    </rooms>
+    <rooms name="tests">
+      <room>rooms\testRoom</room>
+    </rooms>
   </rooms>
   <constants number="1">
     <constant name="BOX_MOVE">32</constant>
