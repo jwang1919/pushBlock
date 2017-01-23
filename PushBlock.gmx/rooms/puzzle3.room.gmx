@@ -53,7 +53,7 @@
   <instances>
     <instance objName="objPlayer" x="128" y="320" name="inst_A4DF722A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="objGameManager" x="96" y="64" name="inst_E52248B1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="objFixedBox" x="96" y="256" name="inst_1D2952D7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="objFixedBox" x="128" y="256" name="inst_1D2952D7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="objFixedBox" x="128" y="224" name="inst_797D4F2A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="objFixedBox" x="192" y="320" name="inst_BE44F1D8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="objFixedBox" x="224" y="288" name="inst_D752B9B4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
@@ -88,6 +88,9 @@
     <instance objName="objBoxLocation" x="288" y="256" name="inst_470F476F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="objMovableBox" x="256" y="224" name="inst_4203CA6D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="objPuzzleManager" x="320" y="32" name="inst_C3251261" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="objBoxLocation" x="160" y="288" name="inst_B0C130CF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="objFixedBox" x="96" y="256" name="inst_57FCF855" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="objMovableBox" x="192" y="256" name="inst_9701B34E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>

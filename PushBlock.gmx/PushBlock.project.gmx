@@ -34,9 +34,13 @@
   </objects>
   <rooms name="rooms">
     <rooms name="puzzles">
-      <room>rooms\puzzle1</room>
+      <room>rooms\puzzle1a</room>
+      <room>rooms\puzzle1b</room>
       <room>rooms\puzzle2</room>
       <room>rooms\puzzle3</room>
+      <room>rooms\puzzle4</room>
+      <room>rooms\puzzle5</room>
+      <room>rooms\puzzle6</room>
       <room>rooms\gameEnd</room>
     </rooms>
     <rooms name="tests">
