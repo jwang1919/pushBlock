@@ -34,6 +34,7 @@
   </objects>
   <rooms name="rooms">
     <rooms name="puzzles">
+      <room>rooms\puzzle8</room>
       <room>rooms\puzzle7</room>
       <room>rooms\puzzle1a</room>
       <room>rooms\puzzle1b</room>
