@@ -54,14 +54,12 @@
     <instance objName="objGameManager" x="96" y="64" name="inst_E52248B1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="objPuzzleManager" x="320" y="32" name="inst_C3251261" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="objPlayer" x="352" y="352" name="inst_C3A6AD7F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="objFixedBox" x="320" y="416" name="inst_D6DFC066" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="objFixedBox" x="320" y="448" name="inst_D6DFC066" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="objFixedBox" x="352" y="416" name="inst_77DA1E1A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="objFixedBox" x="416" y="384" name="inst_8090E3B9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="objFixedBox" x="384" y="288" name="inst_80F4578F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="objFixedBox" x="352" y="288" name="inst_C500B5DA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="objFixedBox" x="320" y="256" name="inst_38BB5906" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="objFixedBox" x="416" y="320" name="inst_04DFEE7F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="objFixedBox" x="384" y="416" name="inst_998FBC60" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="objFixedBox" x="384" y="256" name="inst_80F4578F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="objFixedBox" x="352" y="288" name="inst_38BB5906" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="objFixedBox" x="384" y="320" name="inst_04DFEE7F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="objFixedBox" x="384" y="384" name="inst_998FBC60" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="objFixedBox" x="416" y="352" name="inst_A8A6F7F2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="objFixedBox" x="288" y="416" name="inst_DC9907A9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="objFixedBox" x="256" y="384" name="inst_FD2AC761" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
@@ -91,18 +89,18 @@
     <instance objName="objFixedBox" x="384" y="192" name="inst_493E7212" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="objMovableBox" x="320" y="320" name="inst_9D9E74A0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="objMovableBox" x="288" y="352" name="inst_487AEB58" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="objMovableBox" x="288" y="288" name="inst_F269F2DA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="objMovableBox" x="256" y="320" name="inst_489BA26E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="objMovableBox" x="320" y="384" name="inst_9B360B93" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="objMovableBox" x="224" y="352" name="inst_BEE12E45" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="objMovableBox" x="288" y="224" name="inst_05D66224" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="objMovableBox" x="256" y="256" name="inst_697D1612" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="objMovableBox" x="224" y="288" name="inst_1AB0BFBD" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="objBoxLocation" x="128" y="160" name="inst_830E877A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="objBoxLocation" x="160" y="416" name="inst_5C4199BD" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="objFixedBox" x="96" y="160" name="inst_36010D39" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="objFixedBox" x="224" y="256" name="inst_3FE4EB75" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="objFixedBox" x="256" y="288" name="inst_3FE4EB75" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="objFixedBox" x="224" y="320" name="inst_62919C11" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="objFixedBox" x="288" y="256" name="inst_E4E1DB1C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="objMovableBox" x="320" y="256" name="inst_85F14E20" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="objMovableBox" x="320" y="192" name="inst_AC544CC7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="objFixedBox" x="192" y="384" name="inst_A0497399" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>
